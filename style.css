@@ -71,3 +71,10 @@ button{
     font-weight: 600;
 }
 
+
+@media (max-width: 834px){
+    .card{
+        width: 450px;
+    }
+}
+
